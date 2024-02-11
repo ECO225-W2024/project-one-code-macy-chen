@@ -1,1 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/fCCk-mkL)
+# Analyzing Tech Salaries in Different Countries: Investigating Influential Factors
+Analyzing the disparities in salaries across different locations internationally and understanding the potential factors influencing these variations.
+
+The data is obtained from [Kaggle Notebook](https://www.kaggle.com/datasets/thedevastator/know-your-worth-tech-salaries-in-2016), original source by Brandon Telle [[source]](https://data.world/brandon-telle/2016-hacker-news-salary-survey-results). This dataset includes responses from a tech industry salary survey conducted in 2016, including information such as employer names, locations, job titles, experience levels, and compensation details. 
